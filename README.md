@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-yarn add --dev eslint react-native-reactiive
+yarn add --dev eslint eslint-config-react-native-reactiive
 ```
 
 ## Usage
@@ -12,6 +12,6 @@ Add to your eslint config (`.eslintrc`, or `eslintConfig` field in `package.json
 
 ```json
 {
-    "extends": "react-native-reactiive"
+  "extends": "react-native-reactiive"
 }
 ```
