@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-native-reactiive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My eslint configuration for React Native",
   "main": "index.js",
   "author": "Enzo Manuel Mangano <enzomanuelmangano@gmail.com>",
